@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "lem_mixins@1.0.1",
+        "scope": null,
+        "escapedName": "lem_mixins",
+        "name": "lem_mixins",
+        "rawSpec": "1.0.1",
+        "spec": "1.0.1",
+        "type": "version"
+      },
+      "/Users/lemehovskiy1/PhpstormProjects/lemehovskiy.github.io"
+    ]
+  ],
+  "_from": "lem_mixins@1.0.1",
+  "_id": "lem_mixins@1.0.1",
+  "_inCache": true,
+  "_location": "/lem_mixins",
+  "_nodeVersion": "7.4.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/lem_mixins_1.0.1_1518981306332_0.6376452122702889"
+  },
+  "_npmUser": {
+    "name": "lemehovskiy",
+    "email": "lemehovskiy@gmail.com"
+  },
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lem_mixins@1.0.1",
+    "scope": null,
+    "escapedName": "lem_mixins",
+    "name": "lem_mixins",
+    "rawSpec": "1.0.1",
+    "spec": "1.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/lem_mixins/-/lem_mixins-1.0.1.tgz",
+  "_shasum": "ef35768b8af8f88900e86e108e2dbf6902d84bfd",
+  "_shrinkwrap": null,
+  "_spec": "lem_mixins@1.0.1",
+  "_where": "/Users/lemehovskiy1/PhpstormProjects/lemehovskiy.github.io",
+  "author": {
+    "name": "lemehovskiy"
+  },
+  "dependencies": {},
+  "description": "Adaptive sass mixins",
+  "devDependencies": {
+    "autoprefixer": "^7.2.3",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "load-google-maps-api": "^1.0.1",
+    "node-sass": "^4.7.2",
+    "postcss-loader": "^2.0.9",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.6.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ef35768b8af8f88900e86e108e2dbf6902d84bfd",
+    "tarball": "https://registry.npmjs.org/lem_mixins/-/lem_mixins-1.0.1.tgz",
+    "fileCount": 23,
+    "unpackedSize": 20046
+  },
+  "gitHead": "b7dfe348ba296299e27ab395cb7e42a23741042e",
+  "keywords": [
+    "sass mixins library"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "lemehovskiy",
+      "email": "lemehovskiy@gmail.com"
+    }
+  ],
+  "name": "lem_mixins",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
